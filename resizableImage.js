@@ -1,4 +1,4 @@
-import {positions} from "../tools/tools.js";
+import {positions} from "./tools/tools.js";
 
 export default function ResizableImage(target, imgUrl){
         let designMode = false,
